@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="public/logo.svg" width="80" height="80" alt="AI Storyboard Studio" />
+  <img src="public/ai-pirates-logo.svg" width="180" alt="AI Pirates" />
+</p>
+
+<p align="center">
+  <img src="public/logo.svg" width="64" height="64" alt="AI Storyboard Studio" />
 </p>
 
 <h1 align="center">AI Storyboard Studio</h1>
