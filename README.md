@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/ai-pirates-logo.svg" width="180" alt="AI Pirates" />
+  <img src="public/ai-pirates-logo.png" width="200" alt="AI Pirates" />
 </p>
 
 <p align="center">
@@ -298,6 +298,9 @@ MIT — use it, fork it, build on it.
 
 ---
 
+<p align="center">
+  <a href="https://ai-pirates.com"><img src="public/ai-pirates-logo.png" width="120" alt="AI Pirates" /></a>
+</p>
 <p align="center">
   Developed by <a href="https://ai-pirates.com"><strong>AI Pirates</strong></a> &bull; Munich, Germany
 </p>
